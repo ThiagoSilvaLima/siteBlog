@@ -1,0 +1,11 @@
+#capa{
+    background-image: url(Nietzsche-e-Schopenhauer.webp);
+    height: 400px;
+}
+.title{
+    font-family: 'Franklin Gothic Medium';
+    font-weight: 900;
+}
+.text{
+    font-size: 20px;
+}
